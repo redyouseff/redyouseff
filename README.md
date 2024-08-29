@@ -16,6 +16,11 @@
 - ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) **Node.js**
 - ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB**
 
+## My Projects
+- [Kartek: Online Wallet Application]([https://github.com/yourusername/kartek](https://github.com/redyouseff/kartak))
+-
 
-
-
+## Connect with Me
+-
+-
+- [Email](mailto:youssefalkret@gmail.com)
