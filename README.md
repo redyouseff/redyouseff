@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Youssef! 👋
 
-<!--
-**redyouseff/redyouseff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Image](https://link-to-your-profile-image.com)
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 I'm a Software Engineer with experience in Front-End and Back-End development.
+- 🌍 Based in El Menofia, Egypt.
+- 🌱 Currently working on various projects using Node.js and React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Tools
+
+- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) **HTML5**
+- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) **CSS3**
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript**
+- ![React](https://img.icons8.com/color/48/000000/react-native.png) **React**
+- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) **Node.js**
+- ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB**
+
+
+
+
