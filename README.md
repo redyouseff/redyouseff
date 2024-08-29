@@ -1,6 +1,6 @@
 # Hi there, I'm Youssef! 👋
 
-![Profile Image](https://link-to-your-profile-image.com)
+
 
 ## About Me
 - 🎓 I'm a Software Engineer with experience in Front-End and Back-End development.
